@@ -6,12 +6,12 @@
  
 Create a branch named Part1
 
-Purpose:  This project will get you thinking correctly about choosing good names for the tasks that your objects will perform. 
+Purpose:  This project will get you thinking correctly about choosing good names for the tasks that your objects will perform.
 This project will also introduce you to the review process, and how Pull Requests work.
 I will request a change be made to one of your 10 nouns for the sole purpose of showing how the review process works.
 
  1) write out 10 nouns in the space provided below.
-    Choose nouns that do things.  
+    Choose nouns that do things.
     avoid choosing nouns that have things done TO them.
     If your noun consists of multiple words, use camelCaseToNameIt.
  
@@ -22,13 +22,13 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
         "the Car blows its horn" is a better action, because the car is doing something.  its state is not being checked.  i.e.
             car.blowsHorn()
     c) choose actions that your noun does.  Do not write out actions that are performed on your noun.
-        for example: 
+        for example:
             noun: lightBulb.
-            action: turns on.  
-                This is a bad action because someone else turns on the light.  the light doesn't turn itself on. 
-            a better action would be: 
+            action: turns on.
+                This is a bad action because someone else turns on the light.  the light doesn't turn itself on.
+            a better action would be:
                 illuminates room
-                This is a better action, because this is what lightbulbs do.  
+                This is a better action, because this is what lightbulbs do.
             other actions that would work:
                 action: consume electricity
                 action: burn out and destroy filament.
@@ -52,39 +52,39 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun:car
+//  action 1:consumes gas
 
-//  action 2:
+//  action 2:breakdown
 
-//  action 3:
+//  action 3:transfer objects
 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun:pocket
+//  action 1: hold object
 
-//  action 2:
+//  action 2: protect object
 
-//  action 3:
+//  action 3: rips
 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun:dog
+//  action 1: barks
 
-//  action 2:
+//  action 2: eats
 
-//  action 3:
+//  action 3: poops
 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun:butt
+//  action 1: farts
 
-//  action 2:
+//  action 2: poops
 
-//  action 3:
+//  action 3: grows hair
 
 //  5)
-//  Noun:
+//  Noun:bed
 //  action 1:
 
 //  action 2:
@@ -92,7 +92,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 //  action 3:
 
 //  6)
-//  Noun:
+//  Noun:food
 //  action 1:
 
 //  action 2:
@@ -100,7 +100,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 //  action 3:
 
 //  7)
-//  Noun:
+//  Noun:plant
 //  action 1:
 
 //  action 2:
@@ -108,7 +108,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 //  action 3:
 
 //  8)
-//  Noun:
+//  Noun:chair
 //  action 1:
 
 //  action 2:
@@ -116,7 +116,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 //  action 3:
 
 //  9)
-//  Noun:
+//  Noun:ball
 //  action 1:
 
 //  action 2:
@@ -124,7 +124,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 //  action 3:
 
 //  10)
-//  Noun:
+//  Noun:recordPlayer
 //  action 1:
 
 //  action 2:
@@ -140,7 +140,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
  Commit your changes by clicking on the Source Control panel on the left, entering a message, and click [Commit and push].
  
- If you didn't already: 
+ If you didn't already:
     Make a pull request after you make your first commit
     pin the pull request link and this repl.it link to our DM thread in a single message.
 
